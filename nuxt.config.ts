@@ -1,10 +1,10 @@
 export default defineNuxtConfig({
-  
+
   app: {
     head: {
       title: 'Portofolio Rama', 
       link: [
-        { rel: 'icon', type: 'image/png', href: '/seol.png' } 
+        { rel: 'icon', type: 'image/png', href: '/dog.png' } 
       ]
     }
   },
